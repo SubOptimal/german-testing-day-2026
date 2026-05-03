@@ -1,0 +1,1115 @@
+<?xml version='1.0' encoding='utf-8'?>
+<schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
+  <version>2026-05-03T11:10:17+02:00</version>
+  <conference>
+    <acronym>gtd2026</acronym>
+    <title>German Testing Day 2026</title>
+    <start>2026-05-06T15:00:00+02:00</start>
+    <end>2026-05-07T17:20:00+02:00</end>
+    <days>2</days>
+    <timeslot_duration>00:05</timeslot_duration>
+    <time_zone_name>Europe/Berlin</time_zone_name>
+    <url>https://192.168.178.182:18443/German%20Testing%20Day%202026%20_%20Programm.html</url>
+    <base_url>https://192.168.178.182:18443/German%20Testing%20Day%202026%20_%20Programm.html</base_url>
+    <track name="General">General</track>
+    <track name="Keynotes">Keynotes</track>
+    <track name="Specials">Specials</track>
+    <track name="Track+">Track+</track>
+    <track name="Vorträge">Vorträge</track>
+    <track name="Workshops">Workshops</track>
+  </conference>
+  <day index="1" date="2026-05-06" start="2026-05-06T15:00:00+02:00" end="2026-05-06T22:00:00+02:00">
+    <room name="Ausstellung" guid="4c2d64dd-49a3-5376-bd45-2165c52456e9">
+      <event id="1" guid="b4a5dcd1-3b65-597b-8072-c5edd0ebdb23" code="JLWC6E">
+        <date>2026-05-06T19:00:00+02:00</date>
+        <start>19:00</start>
+        <duration>03:00</duration>
+        <room>Ausstellung</room>
+        <title>Welcome Reception</title>
+        <subtitle />
+        <language>de</language>
+        <track>Specials</track>
+        <type>Talk</type>
+        <abstract>Nach (und vor) einem inspirierenden Konferenztag voller neuer Impulse, spannender Vorträge und innovativer Ideen laden wir euch ein, den Abend in entspannter Atmosphäre ausklingen zu lassen. Unsere Welcome Reception bietet den perfekten Rahmen, um Gespräche zu vertiefen, neue Kontakte zu knüpfen und bestehende Netzwerke auszubauen. Genießt erfrischende Getränke, kleine Köstlichkeiten und inspirierende Gespräche mit Expertinnen und Experten, Branchenkolleginnen und -kollegen sowie Gleichgesinnten…</abstract>
+        <description>Nach (und vor) einem inspirierenden Konferenztag voller neuer Impulse, spannender Vorträge und innovativer Ideen laden wir euch ein, den Abend in entspannter Atmosphäre ausklingen zu lassen. Unsere Welcome Reception bietet den perfekten Rahmen, um Gespräche zu vertiefen, neue Kontakte zu knüpfen und bestehende Netzwerke auszubauen. Genießt erfrischende Getränke, kleine Köstlichkeiten und inspirierende Gespräche mit Expertinnen und Experten, Branchenkolleginnen und -kollegen sowie Gleichgesinnten…</description>
+        <logo />
+        <persons />
+        <url>https://www.germantestingday.info/de/programm/konferenzprogramm/default-b711dd6b7c83eb84439e8d8f69c4ead5</url>
+        <links />
+        <recording>
+          <license />
+          <optout>false</optout>
+        </recording>
+      </event>
+    </room>
+    <room name="General" guid="49c49863-b326-5072-8312-0add8548dda0">
+      <event id="2" guid="5268df85-f4c6-566a-bbac-d7cd85f122d5" code="4I4HWH">
+        <date>2026-05-06T15:00:00+02:00</date>
+        <start>15:00</start>
+        <duration>00:30</duration>
+        <room>General</room>
+        <title>Registrierung</title>
+        <subtitle />
+        <language>de</language>
+        <track>General</track>
+        <type>Other</type>
+        <abstract />
+        <description />
+        <logo />
+        <persons />
+        <links />
+        <recording>
+          <license />
+          <optout>false</optout>
+        </recording>
+      </event>
+    </room>
+    <room name="Plateau" guid="b3d87e4f-0841-5bb7-86af-47582a399d06">
+      <event id="3" guid="54561eb5-250c-50aa-9385-f1349f920b16" code="OZIEA6">
+        <date>2026-05-06T15:30:00+02:00</date>
+        <start>15:30</start>
+        <duration>00:25</duration>
+        <room>Plateau</room>
+        <title>Eröffnung der Konferenz und Programm-Teaser</title>
+        <subtitle />
+        <language>de</language>
+        <track>Specials</track>
+        <type>Talk</type>
+        <abstract />
+        <description />
+        <logo />
+        <persons />
+        <url>https://www.germantestingday.info/de/programm/konferenzprogramm/default-571f28d063271fcd14cfd2ba25af8710</url>
+        <links />
+        <recording>
+          <license />
+          <optout>false</optout>
+        </recording>
+      </event>
+      <event id="4" guid="e3335684-537d-52db-b3ae-3f3d2d61faf8" code="PICA9W">
+        <date>2026-05-06T16:00:00+02:00</date>
+        <start>16:00</start>
+        <duration>00:35</duration>
+        <room>Plateau</room>
+        <title>KI schließt die Automatisierungslücke</title>
+        <subtitle />
+        <language>de</language>
+        <track>Vorträge</track>
+        <type>Talk</type>
+        <abstract>Die Testdurchführung kann mit gängigen Tools automatisiert werden, der Testentwurf mit modellbasiertem Testen (MBT) ebenfalls. Für die Testanalyse bietet sich heute die künstliche Intelligenz (KI) an. Die Frage stellt sich, wie man mit einer passenden Kombination dieser drei Technologien das dynamische Testen vom Anfang zum Ende automatisieren kann. Der Autor berichtet über seine Erfahrungen in einem Fallbeispiel. Er erläutert wie er seine Testziele mit diesem Ansatz und einem Satz an konkreten…</abstract>
+        <description>Die Testdurchführung kann mit gängigen Tools automatisiert werden, der Testentwurf mit modellbasiertem Testen (MBT) ebenfalls. Für die Testanalyse bietet sich heute die künstliche Intelligenz (KI) an. Die Frage stellt sich, wie man mit einer passenden Kombination dieser drei Technologien das dynamische Testen vom Anfang zum Ende automatisieren kann. Der Autor berichtet über seine Erfahrungen in einem Fallbeispiel. Er erläutert wie er seine Testziele mit diesem Ansatz und einem Satz an konkreten…</description>
+        <logo />
+        <persons>
+          <person id="1" guid="b84b90b6-357d-5acb-882c-6774d7728063">Matthias Hamburg</person>
+        </persons>
+        <url>https://www.germantestingday.info/de/programm/konferenzprogramm/mi-11</url>
+        <links />
+        <recording>
+          <license />
+          <optout>false</optout>
+        </recording>
+      </event>
+      <event id="5" guid="d6d29ee6-b373-5af8-87e7-1b996630e894" code="FEGJCD">
+        <date>2026-05-06T16:45:00+02:00</date>
+        <start>16:45</start>
+        <duration>00:35</duration>
+        <room>Plateau</room>
+        <title>Agiles Lernen mit KI - von der Lernpfaderstellung bis zu einzelnen Trainingseinheiten</title>
+        <subtitle />
+        <language>de</language>
+        <track>Vorträge</track>
+        <type>Talk</type>
+        <abstract>In diesem Vortrag zeige ich, wie Sprachmodelle wie Mistral oder Claude beim agilen Lernen in der Qualitätssicherung als Coach oder Recherche-Werkzeug eingesetzt werden können. Softwareentwicklung wandelt sich kontinuierlich: DevOps, Security-Testing, AI-Testing - das nötige Wissen muss schnell aufgebaut werden. Hinzu kommen fachliche Anforderungen in den jeweiligen Kundendomänen. Wir haben Lernpfade für unterschiedliche QS-Rollen erprobt. Der Schwerpunkt liegt auf dem Lernpfad des AI Quality…</abstract>
+        <description>In diesem Vortrag zeige ich, wie Sprachmodelle wie Mistral oder Claude beim agilen Lernen in der Qualitätssicherung als Coach oder Recherche-Werkzeug eingesetzt werden können. Softwareentwicklung wandelt sich kontinuierlich: DevOps, Security-Testing, AI-Testing - das nötige Wissen muss schnell aufgebaut werden. Hinzu kommen fachliche Anforderungen in den jeweiligen Kundendomänen. Wir haben Lernpfade für unterschiedliche QS-Rollen erprobt. Der Schwerpunkt liegt auf dem Lernpfad des AI Quality…</description>
+        <logo />
+        <persons>
+          <person id="2" guid="96c8c5ac-ed45-5cbe-9573-c9c47846485e">Nils Röttger</person>
+        </persons>
+        <url>https://www.germantestingday.info/de/programm/konferenzprogramm/mi-12</url>
+        <links />
+        <recording>
+          <license />
+          <optout>false</optout>
+        </recording>
+      </event>
+      <event id="6" guid="f45d33d5-490d-598d-af3f-354b65f9bb22" code="GL7TXA">
+        <date>2026-05-06T17:30:00+02:00</date>
+        <start>17:30</start>
+        <duration>00:35</duration>
+        <room>Plateau</room>
+        <title>Mut zur (Test-)Lücke? Oder: Welche Testlücken bergen das größte Risiko?</title>
+        <subtitle />
+        <language>de</language>
+        <track>Vorträge</track>
+        <type>Talk</type>
+        <abstract>Bei langlebiger Software lauern die meisten Fehler in dem Code, der kürzlich verändert wurde. Das belegen Forschungsarbeiten genauso wie unser Bauchgefühl. Viele Teams setzen deshalb Test-Gap-Analyse ein, ein Verfahren, das ungetestete Änderungen automatisiert aufdeckt. Unsere Erfahrung zeigt jedoch, dass oft mehr Test-Gaps aufgedeckt werden, als wir testen können. Daher möchten wir Test-Gaps nach ihrem Risiko priorisieren. Im Vortrag stelle ich Forschungsergebnisse vor, die hierfür verschiedene…</abstract>
+        <description>Bei langlebiger Software lauern die meisten Fehler in dem Code, der kürzlich verändert wurde. Das belegen Forschungsarbeiten genauso wie unser Bauchgefühl. Viele Teams setzen deshalb Test-Gap-Analyse ein, ein Verfahren, das ungetestete Änderungen automatisiert aufdeckt. Unsere Erfahrung zeigt jedoch, dass oft mehr Test-Gaps aufgedeckt werden, als wir testen können. Daher möchten wir Test-Gaps nach ihrem Risiko priorisieren. Im Vortrag stelle ich Forschungsergebnisse vor, die hierfür verschiedene…</description>
+        <logo />
+        <persons>
+          <person id="3" guid="a4f4feb8-09d0-5eac-b3d3-7b7a24c80b30">Sven Amann</person>
+        </persons>
+        <url>https://www.germantestingday.info/de/programm/konferenzprogramm/mi-23</url>
+        <links />
+        <recording>
+          <license />
+          <optout>false</optout>
+        </recording>
+      </event>
+      <event id="7" guid="f8a7928a-0312-5c10-ae82-3d1a0e0cdc51" code="1PX8YY">
+        <date>2026-05-06T18:15:00+02:00</date>
+        <start>18:15</start>
+        <duration>00:45</duration>
+        <room>Plateau</room>
+        <title>KEYNOTE: Don’t go breaking my code</title>
+        <subtitle />
+        <language>de</language>
+        <track>Keynotes</track>
+        <type>Talk</type>
+        <abstract>A tester and a developer enter the stage. The tester stomps towards the developer. Tester: Everything is broken! I can’t create new users! As soon as I use emojis it crashes! Developer: Wait what? Why would … A user would never do that. That’s a wild edge case. Sudden dramatic music plays. Tester takes a step backwards and gasps. She turns to the audience with a dramatic gesture Tester: Why is he always shrugging me off when I raise a problem? Am I stupid? Does he think I am? I feel like such a…</abstract>
+        <description>A tester and a developer enter the stage. The tester stomps towards the developer. Tester: Everything is broken! I can’t create new users! As soon as I use emojis it crashes! Developer: Wait what? Why would … A user would never do that. That’s a wild edge case. Sudden dramatic music plays. Tester takes a step backwards and gasps. She turns to the audience with a dramatic gesture Tester: Why is he always shrugging me off when I raise a problem? Am I stupid? Does he think I am? I feel like such a…</description>
+        <logo />
+        <persons>
+          <person id="4" guid="fe54531d-056d-5927-afc9-a7b263036bb3">Lena Nyström</person>
+          <person id="5" guid="1865783d-f065-5e48-8b98-907890551f14">Samuel Nitsche</person>
+        </persons>
+        <url>https://www.germantestingday.info/de/programm/konferenzprogramm/keymi</url>
+        <links />
+        <recording>
+          <license />
+          <optout>false</optout>
+        </recording>
+      </event>
+    </room>
+    <room name="Satellit" guid="69a31f0c-7a2b-5e9f-96ef-a6cef9a14f7a">
+      <event id="8" guid="bc73de9a-44cf-5792-a9b3-fa82ecdd65a6" code="1VJIBX">
+        <date>2026-05-06T16:00:00+02:00</date>
+        <start>16:00</start>
+        <duration>00:35</duration>
+        <room>Satellit</room>
+        <title>Lastenhefte unplugged: Mythen entzaubert - und in 2 Wochen zum agilen, testbaren Ergebnis</title>
+        <subtitle />
+        <language>de</language>
+        <track>Vorträge</track>
+        <type>Talk</type>
+        <abstract>Lastenhefte gelten oft als verstaubt, bürokratisch und unpraktisch. Doch das ist ein Mythos! In meinem Vortrag zeige ich, wie Lastenhefte zu echten Rockstars im Projekt werden: klar, fokussiert und agil. Anhand eines erprobten 5-Schritte-Modells erfährst Du, wie in nur zwei Wochen ein freigegebenes Lastenheft entsteht - ohne Overhead, dafür mit testbaren Anforderungen, die Abnahmen erleichtern und Tests beschleunigen. Schluss mit Chaos, wir bringen Struktur und Drive ins Engineering! Zielgruppe…</abstract>
+        <description>Lastenhefte gelten oft als verstaubt, bürokratisch und unpraktisch. Doch das ist ein Mythos! In meinem Vortrag zeige ich, wie Lastenhefte zu echten Rockstars im Projekt werden: klar, fokussiert und agil. Anhand eines erprobten 5-Schritte-Modells erfährst Du, wie in nur zwei Wochen ein freigegebenes Lastenheft entsteht - ohne Overhead, dafür mit testbaren Anforderungen, die Abnahmen erleichtern und Tests beschleunigen. Schluss mit Chaos, wir bringen Struktur und Drive ins Engineering! Zielgruppe…</description>
+        <logo />
+        <persons>
+          <person id="6" guid="31cb81b5-ed22-5ddc-8bb2-47d13aee8d1c">Björn Schorre</person>
+        </persons>
+        <url>https://www.germantestingday.info/de/programm/konferenzprogramm/mi-21</url>
+        <links />
+        <recording>
+          <license />
+          <optout>false</optout>
+        </recording>
+      </event>
+      <event id="9" guid="2eba4c58-9027-5153-97c3-24b4986cca43" code="659521">
+        <date>2026-05-06T16:45:00+02:00</date>
+        <start>16:45</start>
+        <duration>00:35</duration>
+        <room>Satellit</room>
+        <title>Der Cyber Resilience Act (CRA) und seine Auswirkungen auf die SW-Entwicklung</title>
+        <subtitle />
+        <language>de</language>
+        <track>Vorträge</track>
+        <type>Talk</type>
+        <abstract>Der CRA definiert verbindliche Sicherheitsstandards für digitale Produkte (inkl. Software und Cloud-Dienste). SW-Anbieter müssen die neuen Vorgaben erfüllen. In einem kompakten Vortrag wird für SW-Organisationen dargestellt, auf was sie achten müssen und es werden Tipps für die Vorbereitung und Umsetzung des CRA gegeben.Teil 1: CRA Überblick, beachtende Themen und Tipps für die Vorbereitung auf den CRA Teil 2: Normen und Standards im Rahmen des CRA, die alle Software-Organisationen betreffenTe…</abstract>
+        <description>Der CRA definiert verbindliche Sicherheitsstandards für digitale Produkte (inkl. Software und Cloud-Dienste). SW-Anbieter müssen die neuen Vorgaben erfüllen. In einem kompakten Vortrag wird für SW-Organisationen dargestellt, auf was sie achten müssen und es werden Tipps für die Vorbereitung und Umsetzung des CRA gegeben.Teil 1: CRA Überblick, beachtende Themen und Tipps für die Vorbereitung auf den CRA Teil 2: Normen und Standards im Rahmen des CRA, die alle Software-Organisationen betreffenTe…</description>
+        <logo />
+        <persons>
+          <person id="7" guid="1e189b28-0e8e-55ac-8a79-6b6eb2eb94d0">Johannes Bergsmann</person>
+        </persons>
+        <url>https://www.germantestingday.info/de/programm/konferenzprogramm/mi-22</url>
+        <links />
+        <recording>
+          <license />
+          <optout>false</optout>
+        </recording>
+      </event>
+      <event id="10" guid="706ee1ca-96de-5bb4-891e-4a6b95493fb7" code="ZETW29">
+        <date>2026-05-06T17:30:00+02:00</date>
+        <start>17:30</start>
+        <duration>00:35</duration>
+        <room>Satellit</room>
+        <title>Glue work makes the crew work</title>
+        <subtitle />
+        <language>de</language>
+        <track>Vorträge</track>
+        <type>Talk</type>
+        <abstract>Many of us wonder how much of our day-to-day work can be done by machines. Will AI even take our jobs? But you know what AI can't do? Glue work! The invisible work that needs to be done to make a team successful, like onboarding a new team member, crafting connections, and getting people to talk with each other, is often overlooked and less promotable than concrete engineering tasks. Yet, none of us would want to work in a team without any glue, even if it is invisible. So, let's talk about…</abstract>
+        <description>Many of us wonder how much of our day-to-day work can be done by machines. Will AI even take our jobs? But you know what AI can't do? Glue work! The invisible work that needs to be done to make a team successful, like onboarding a new team member, crafting connections, and getting people to talk with each other, is often overlooked and less promotable than concrete engineering tasks. Yet, none of us would want to work in a team without any glue, even if it is invisible. So, let's talk about…</description>
+        <logo />
+        <persons>
+          <person id="8" guid="928891f3-4c96-509c-84f6-387398654f73">Sophie Küster</person>
+        </persons>
+        <url>https://www.germantestingday.info/de/programm/konferenzprogramm/mi-13</url>
+        <links />
+        <recording>
+          <license />
+          <optout>false</optout>
+        </recording>
+      </event>
+    </room>
+    <room name="Sirius" guid="d2fb125f-a99c-5cd5-8700-f2c4096979ec">
+      <event id="11" guid="27982a1c-e464-5f8c-a116-cc0f99a8be2a" code="QZEL0Y">
+        <date>2026-05-06T16:00:00+02:00</date>
+        <start>16:00</start>
+        <duration>02:05</duration>
+        <room>Sirius</room>
+        <title>Limitiert Softwarequalität neu denken im Zeitalter der KI</title>
+        <subtitle />
+        <language>de</language>
+        <track>Workshops</track>
+        <type>Talk</type>
+        <abstract>Ändert sich durch KI-Systeme die Art, welche Qualitätsmerkmale wir berücksichtigen und wie wir Qualität sichern? Diese Frage treibt uns um. Der Workshop soll die Fragestellung genauer unter die Lupe nehmen und KI-Systeme anderen Softwaregattungen wie Embedded Systems oder Informationssystemen gegenüberstellen. Wir untersuchen gemeinsam, ob und wie sich Qualitätsmerkmale zwischen Systemen unterscheiden und wie sich KI-Systeme dabei einsortieren lassen. Sind KI-Systeme ganz anders oder bleibt doch…</abstract>
+        <description>Ändert sich durch KI-Systeme die Art, welche Qualitätsmerkmale wir berücksichtigen und wie wir Qualität sichern? Diese Frage treibt uns um. Der Workshop soll die Fragestellung genauer unter die Lupe nehmen und KI-Systeme anderen Softwaregattungen wie Embedded Systems oder Informationssystemen gegenüberstellen. Wir untersuchen gemeinsam, ob und wie sich Qualitätsmerkmale zwischen Systemen unterscheiden und wie sich KI-Systeme dabei einsortieren lassen. Sind KI-Systeme ganz anders oder bleibt doch…</description>
+        <logo />
+        <persons>
+          <person id="9" guid="6c2bdf45-0273-59b5-9a8c-91a764bfe1f3">Dehla Sokenou</person>
+          <person id="10" guid="ba47c520-5b82-5599-abe8-093c339a8010">Harald Störrle</person>
+        </persons>
+        <url>https://www.germantestingday.info/de/programm/konferenzprogramm/mi-41</url>
+        <links />
+        <recording>
+          <license />
+          <optout>false</optout>
+        </recording>
+      </event>
+    </room>
+    <room name="Solar" guid="f0538fd2-257e-56c7-aa23-5fd4f2adfa07">
+      <event id="12" guid="f461fb0d-394d-55b7-a0d9-314e66de23b5" code="SPDE4C">
+        <date>2026-05-06T16:00:00+02:00</date>
+        <start>16:00</start>
+        <duration>01:20</duration>
+        <room>Solar</room>
+        <title>Panel: Vibe Coding trifft auf Vibe Testing</title>
+        <subtitle />
+        <language>de</language>
+        <track>Workshops</track>
+        <type>Talk</type>
+        <abstract>Moderation: Matthias GroßTeilnehmende: Rudolf Grötz, Pia Wiedermayer und Erika Göricke In dieser Paneldiskussion werden Expert:innen und Publikum gemeinsam erörtern, wie Qualitätssicherung in einer Welt aussehen kann, in der Softwareentwicklung nicht mehr nur Sache von Profis ist. Welche Risiken entstehen, wenn jede:r per Klick Anwendungen baut? Welche Chancen bieten sich, wenn wir Testing neu denken? Und wie können Organisationen Verantwortung für Qualität verteilen, ohne Innovation zu bremsen?…</abstract>
+        <description>Moderation: Matthias GroßTeilnehmende: Rudolf Grötz, Pia Wiedermayer und Erika Göricke In dieser Paneldiskussion werden Expert:innen und Publikum gemeinsam erörtern, wie Qualitätssicherung in einer Welt aussehen kann, in der Softwareentwicklung nicht mehr nur Sache von Profis ist. Welche Risiken entstehen, wenn jede:r per Klick Anwendungen baut? Welche Chancen bieten sich, wenn wir Testing neu denken? Und wie können Organisationen Verantwortung für Qualität verteilen, ohne Innovation zu bremsen?…</description>
+        <logo />
+        <persons>
+          <person id="11" guid="baa28e35-9613-5b0d-8885-f771e8b7dda7">Matthias Groß</person>
+          <person id="12" guid="ab417eff-0a82-58d5-87bb-04fd55d4dc4b">Rudolf Grötz</person>
+          <person id="13" guid="7dcf9999-eb81-5cc3-918d-a4571a11ca1b">Pia Wiedermayer</person>
+          <person id="14" guid="f66ee228-44bd-545c-ab3f-30b206e370bc">Erika Goericke</person>
+        </persons>
+        <url>https://www.germantestingday.info/de/programm/konferenzprogramm/mi-31</url>
+        <links />
+        <recording>
+          <license />
+          <optout>false</optout>
+        </recording>
+      </event>
+      <event id="13" guid="07a7a38f-be1b-50c1-8664-e9a379a689e2" code="JSITAR">
+        <date>2026-05-06T16:00:00+02:00</date>
+        <start>16:00</start>
+        <duration>01:20</duration>
+        <room>Solar</room>
+        <title>Vibe Coding trifft auf Vibe Testing: Wenn alle entwickeln können - Können dann auch alle Testen?</title>
+        <subtitle />
+        <language>de</language>
+        <track>Workshops</track>
+        <type>Talk</type>
+        <abstract>Vibe Coding, NoCode/LowCode und AI-Tools machen es möglich: Auch Nicht-Entwickler erschaffen in kürzester Zeit beeindruckende Anwendungen. In meinem Impulsvortrag erzähle ich meine persönliche Story, wie ich erstmals mit Vibe Coding in Berührung gekommen bin und welche Fragen dabei entstanden sind. Besonders die eine: Wer testet eigentlich diese Anwendungen? Dieser Talk gibt bewusst keinen Lösungsvorschlag, sondern liefert den Impuls für die anschließende Paneldiskussion. Mein Talk endet mir…</abstract>
+        <description>Vibe Coding, NoCode/LowCode und AI-Tools machen es möglich: Auch Nicht-Entwickler erschaffen in kürzester Zeit beeindruckende Anwendungen. In meinem Impulsvortrag erzähle ich meine persönliche Story, wie ich erstmals mit Vibe Coding in Berührung gekommen bin und welche Fragen dabei entstanden sind. Besonders die eine: Wer testet eigentlich diese Anwendungen? Dieser Talk gibt bewusst keinen Lösungsvorschlag, sondern liefert den Impuls für die anschließende Paneldiskussion. Mein Talk endet mir…</description>
+        <logo />
+        <persons>
+          <person id="12" guid="ab417eff-0a82-58d5-87bb-04fd55d4dc4b">Rudolf Grötz</person>
+        </persons>
+        <url>https://www.germantestingday.info/de/programm/konferenzprogramm/mi-31</url>
+        <links />
+        <recording>
+          <license />
+          <optout>false</optout>
+        </recording>
+      </event>
+    </room>
+  </day>
+  <day index="2" date="2026-05-07" start="2026-05-07T08:00:00+02:00" end="2026-05-07T17:20:00+02:00">
+    <room name="Ausstellung" guid="4c2d64dd-49a3-5376-bd45-2165c52456e9">
+      <event id="14" guid="b513ba74-d363-5910-b298-dc491f234328" code="XXRNEN">
+        <date>2026-05-07T08:00:00+02:00</date>
+        <start>08:00</start>
+        <duration>01:00</duration>
+        <room>Ausstellung</room>
+        <title>Lean Coffee</title>
+        <subtitle />
+        <language>de</language>
+        <track>Specials</track>
+        <type>Talk</type>
+        <abstract>Du hast Fragestellungen, die du mit anderen Testinteressierten diskutieren möchtest? Du möchtest mit deiner Erfahrung anderen Personen eine Perspektive auf Fragen anbieten? Dann bist du beim Lean Coffee genau richtig. Denn im Lean Coffee bestimmt die Gruppe, welche Themen für wie lange diskutiert werden, um den maximalen Nutzen des Austauschs zu erreichen. Lean Coffee ist ein strukturiertes agenda-loses Meeting-Format, bei dem die Teilnehmer:innen die Tagesordnung durch die Themen, die sie…</abstract>
+        <description>Du hast Fragestellungen, die du mit anderen Testinteressierten diskutieren möchtest? Du möchtest mit deiner Erfahrung anderen Personen eine Perspektive auf Fragen anbieten? Dann bist du beim Lean Coffee genau richtig. Denn im Lean Coffee bestimmt die Gruppe, welche Themen für wie lange diskutiert werden, um den maximalen Nutzen des Austauschs zu erreichen. Lean Coffee ist ein strukturiertes agenda-loses Meeting-Format, bei dem die Teilnehmer:innen die Tagesordnung durch die Themen, die sie…</description>
+        <logo />
+        <persons />
+        <url>https://www.germantestingday.info/de/programm/konferenzprogramm/lean-coffee-7</url>
+        <links />
+        <recording>
+          <license />
+          <optout>false</optout>
+        </recording>
+      </event>
+    </room>
+    <room name="General" guid="49c49863-b326-5072-8312-0add8548dda0">
+      <event id="15" guid="bbdcbbdc-8a5f-5ee4-8b95-674744ace88e" code="UY4GCC">
+        <date>2026-05-07T08:00:00+02:00</date>
+        <start>08:00</start>
+        <duration>01:00</duration>
+        <room>General</room>
+        <title>Registrierung</title>
+        <subtitle />
+        <language>de</language>
+        <track>General</track>
+        <type>Other</type>
+        <abstract />
+        <description />
+        <logo />
+        <persons />
+        <links />
+        <recording>
+          <license />
+          <optout>false</optout>
+        </recording>
+      </event>
+      <event id="16" guid="80db5707-7d81-5fa8-b6f1-b080c21ce993" code="AMO4ON">
+        <date>2026-05-07T10:05:00+02:00</date>
+        <start>10:05</start>
+        <duration>00:30</duration>
+        <room>General</room>
+        <title>Pause &amp; Ausstellung</title>
+        <subtitle />
+        <language>de</language>
+        <track>General</track>
+        <type>Other</type>
+        <abstract />
+        <description />
+        <logo />
+        <persons />
+        <links />
+        <recording>
+          <license />
+          <optout>false</optout>
+        </recording>
+      </event>
+      <event id="17" guid="5fab95cb-e114-50e1-901e-e1c26f7948b3" code="S8NF6L">
+        <date>2026-05-07T12:40:00+02:00</date>
+        <start>12:40</start>
+        <duration>01:20</duration>
+        <room>General</room>
+        <title>Mittagspause &amp; Ausstellung</title>
+        <subtitle />
+        <language>de</language>
+        <track>General</track>
+        <type>Other</type>
+        <abstract />
+        <description />
+        <logo />
+        <persons />
+        <links />
+        <recording>
+          <license />
+          <optout>false</optout>
+        </recording>
+      </event>
+      <event id="18" guid="583c7175-2e04-577b-ba94-0bef56088538" code="J3TBHI">
+        <date>2026-05-07T16:05:00+02:00</date>
+        <start>16:05</start>
+        <duration>00:30</duration>
+        <room>General</room>
+        <title>Pause &amp; Ausstellung</title>
+        <subtitle />
+        <language>de</language>
+        <track>General</track>
+        <type>Other</type>
+        <abstract />
+        <description />
+        <logo />
+        <persons />
+        <links />
+        <recording>
+          <license />
+          <optout>false</optout>
+        </recording>
+      </event>
+    </room>
+    <room name="Plateau" guid="b3d87e4f-0841-5bb7-86af-47582a399d06">
+      <event id="19" guid="ac49bb61-753f-5079-b27c-30067db8700c" code="B7X9U6">
+        <date>2026-05-07T09:00:00+02:00</date>
+        <start>09:00</start>
+        <duration>00:20</duration>
+        <room>Plateau</room>
+        <title>Eröffnung des zweiten Konferenztages und Programm-Teaser</title>
+        <subtitle />
+        <language>de</language>
+        <track>Specials</track>
+        <type>Talk</type>
+        <abstract />
+        <description />
+        <logo />
+        <persons />
+        <url>https://www.germantestingday.info/de/programm/konferenzprogramm/default-2ae8bf083c59fcb2d30be44056758a7d</url>
+        <links />
+        <recording>
+          <license />
+          <optout>false</optout>
+        </recording>
+      </event>
+      <event id="20" guid="659ce6cf-ee91-592c-b654-643f634801f3" code="MH4BTN">
+        <date>2026-05-07T09:20:00+02:00</date>
+        <start>09:20</start>
+        <duration>00:45</duration>
+        <room>Plateau</room>
+        <title>KEYNOTE: Five reasons not to use AI in testing - and why you will use it anyhow</title>
+        <subtitle />
+        <language>de</language>
+        <track>Keynotes</track>
+        <type>Talk</type>
+        <abstract>With the arrival of Generative AI (GenAI), the IT landscape shifted dramatically. In this interactive keynote session you may be asking questions like: Can we use GenAI to support our quality engineering activities? Should we? And more importantly: How do we deliver the right level of quality in systems that use GenAI? It's easy to get swept up in the promises of efficiency and automation. In our community of Quality Engineers and Testers, we will not blindly embrace Generative AI without…</abstract>
+        <description>With the arrival of Generative AI (GenAI), the IT landscape shifted dramatically. In this interactive keynote session you may be asking questions like: Can we use GenAI to support our quality engineering activities? Should we? And more importantly: How do we deliver the right level of quality in systems that use GenAI? It's easy to get swept up in the promises of efficiency and automation. In our community of Quality Engineers and Testers, we will not blindly embrace Generative AI without…</description>
+        <logo />
+        <persons>
+          <person id="15" guid="b5722ab7-fe9d-5c8c-8a24-0c31fa73d543">Rik Marselis</person>
+        </persons>
+        <url>https://www.germantestingday.info/de/programm/konferenzprogramm/keydo1</url>
+        <links />
+        <recording>
+          <license />
+          <optout>false</optout>
+        </recording>
+      </event>
+      <event id="21" guid="79185a14-932f-5e40-8137-176f651da3ae" code="8A5IC8">
+        <date>2026-05-07T10:35:00+02:00</date>
+        <start>10:35</start>
+        <duration>00:35</duration>
+        <room>Plateau</room>
+        <title>Kapitän im Sturm: Wie ein gutes Testreporting durch raue Projektgewässer führt</title>
+        <subtitle />
+        <language>de</language>
+        <track>Vorträge</track>
+        <type>Talk</type>
+        <abstract>Testen unter modernen Bedingungen mit steigender Komplexität, agilen Vorgehensmodellen und immer kürzeren Release-Zyklen gleicht dem Steuern eines Schiffs bei dichtem Nebel. Nur wer seine Instrumente richtig deutet, hält sicher den Kurs. In diesem Vortrag zeige ich, wie Testreporting zum Radar des Testmanagements wird. Ich stelle ein praxiserprobtes Reporting-Framework vor, erläutere Automatisierungsmöglichkeiten für effiziente Reports und ergänze es um ein internes Kontrollsystem, das die…</abstract>
+        <description>Testen unter modernen Bedingungen mit steigender Komplexität, agilen Vorgehensmodellen und immer kürzeren Release-Zyklen gleicht dem Steuern eines Schiffs bei dichtem Nebel. Nur wer seine Instrumente richtig deutet, hält sicher den Kurs. In diesem Vortrag zeige ich, wie Testreporting zum Radar des Testmanagements wird. Ich stelle ein praxiserprobtes Reporting-Framework vor, erläutere Automatisierungsmöglichkeiten für effiziente Reports und ergänze es um ein internes Kontrollsystem, das die…</description>
+        <logo />
+        <persons>
+          <person id="11" guid="baa28e35-9613-5b0d-8885-f771e8b7dda7">Matthias Groß</person>
+        </persons>
+        <url>https://www.germantestingday.info/de/programm/konferenzprogramm/do-31</url>
+        <links />
+        <recording>
+          <license />
+          <optout>false</optout>
+        </recording>
+      </event>
+      <event id="22" guid="f3a788bf-5c34-5848-a7aa-2a542a1342d6" code="SIBFPO">
+        <date>2026-05-07T11:20:00+02:00</date>
+        <start>11:20</start>
+        <duration>00:35</duration>
+        <room>Plateau</room>
+        <title>Relevante Testmetriken erkennen: Qualität sichtbar machen, statt nur Zahlen zählen -&gt; Qualität steuern und Entscheidungen treffen.</title>
+        <subtitle />
+        <language>de</language>
+        <track>Vorträge</track>
+        <type>Talk</type>
+        <abstract>Viele Teams messen Testaktivitäten - doch Aktivität ist kein Qualitätsindikator. Klassische Testmetriken reichen nicht aus, um Softwarequalität verlässlich zu bewerten und Risiken frühzeitig zu erkennen. Dieser Vortrag zeigt die Grenzen klassischer Testmetriken auf. Vorgestellt werden praxisnahe, kontextbezogene Metriken - etwa risikobasierte Abdeckung, Defect-Impact-Analysen und Mutation Testing. Der Fokus liegt darauf, sinnvolle Metriken zu definieren, die Qualität sichtbar machen, Prioritäten…</abstract>
+        <description>Viele Teams messen Testaktivitäten - doch Aktivität ist kein Qualitätsindikator. Klassische Testmetriken reichen nicht aus, um Softwarequalität verlässlich zu bewerten und Risiken frühzeitig zu erkennen. Dieser Vortrag zeigt die Grenzen klassischer Testmetriken auf. Vorgestellt werden praxisnahe, kontextbezogene Metriken - etwa risikobasierte Abdeckung, Defect-Impact-Analysen und Mutation Testing. Der Fokus liegt darauf, sinnvolle Metriken zu definieren, die Qualität sichtbar machen, Prioritäten…</description>
+        <logo />
+        <persons>
+          <person id="16" guid="a5547f86-7c00-5f82-ac52-e5847cecc50b">Iryna Huber</person>
+          <person id="17" guid="404f7225-ec6c-507d-8076-a6b7a38d3b61">Carolin van den Berg</person>
+        </persons>
+        <url>https://www.germantestingday.info/de/programm/konferenzprogramm/do-32</url>
+        <links />
+        <recording>
+          <license />
+          <optout>false</optout>
+        </recording>
+      </event>
+      <event id="23" guid="c3e54188-c1b9-5c7a-b994-c039b125b8da" code="PEGUL8">
+        <date>2026-05-07T12:05:00+02:00</date>
+        <start>12:05</start>
+        <duration>00:35</duration>
+        <room>Plateau</room>
+        <title>Continuous Testing is DevOps' Best Friend oder: 'Testen wir wirklich immer alles?'</title>
+        <subtitle />
+        <language>de</language>
+        <track>Vorträge</track>
+        <type>Talk</type>
+        <abstract>Im DevOps Kontext muss die Qualitätssicherung mit CI/CD mithalten können und ebenfalls kontinuierlich erfolgen - doch oft ist es langsam, fragil oder einfach zu viel. Der Vortrag zeigt, wie Tests sinnvoll in Continuous Pipelines integriert werden: Welche Testarten sind in welchen Teststufen relevant? Wie geht man mit Spezialfällen wie Accessibility oder Performance um? Und wo liegen die Grenzen? Anhand eines Praxisbeispiels werden Strategien und Tools vorgestellt, mit denen Continuous Testing…</abstract>
+        <description>Im DevOps Kontext muss die Qualitätssicherung mit CI/CD mithalten können und ebenfalls kontinuierlich erfolgen - doch oft ist es langsam, fragil oder einfach zu viel. Der Vortrag zeigt, wie Tests sinnvoll in Continuous Pipelines integriert werden: Welche Testarten sind in welchen Teststufen relevant? Wie geht man mit Spezialfällen wie Accessibility oder Performance um? Und wo liegen die Grenzen? Anhand eines Praxisbeispiels werden Strategien und Tools vorgestellt, mit denen Continuous Testing…</description>
+        <logo />
+        <persons>
+          <person id="18" guid="fe80a18f-f599-5299-81f0-f4876cc63f43">Björn Scherer</person>
+        </persons>
+        <url>https://www.germantestingday.info/de/programm/konferenzprogramm/do-33</url>
+        <links />
+        <recording>
+          <license />
+          <optout>false</optout>
+        </recording>
+      </event>
+      <event id="24" guid="0a79ff3c-e3f0-5ee3-8528-5ab28161ddc4" code="3G4PLW">
+        <date>2026-05-07T14:05:00+02:00</date>
+        <start>14:05</start>
+        <duration>00:20</duration>
+        <room>Plateau</room>
+        <title>KI schreibt Testfälle und jetzt?</title>
+        <subtitle />
+        <language>de</language>
+        <track>Specials</track>
+        <type>Talk</type>
+        <abstract>Generative KI kann heute aus Anforderungen und User Stories in kürzester Zeit Testfälle erzeugen, oft sogar nach bekannten Standards wie ISTQB oder ISO 29119. Klingt nach der Lösung für ein altes Problem, doch die Praxis zeigt Licht und Schatten. Manche KI-Testfälle sind erstaunlich präzise, andere übersehen Randbedingungen oder erzeugen Redundanzen. In diesem Lightning Talk gebe ich drei klare Antworten, wo KI heute echten Nutzen bringt, welche typischen Stolpersteine auftreten und warum…</abstract>
+        <description>Generative KI kann heute aus Anforderungen und User Stories in kürzester Zeit Testfälle erzeugen, oft sogar nach bekannten Standards wie ISTQB oder ISO 29119. Klingt nach der Lösung für ein altes Problem, doch die Praxis zeigt Licht und Schatten. Manche KI-Testfälle sind erstaunlich präzise, andere übersehen Randbedingungen oder erzeugen Redundanzen. In diesem Lightning Talk gebe ich drei klare Antworten, wo KI heute echten Nutzen bringt, welche typischen Stolpersteine auftreten und warum…</description>
+        <logo />
+        <persons>
+          <person id="19" guid="c7051cb8-b83e-56e3-b74a-265633d3663f">Mark Menzel</person>
+        </persons>
+        <url>https://www.germantestingday.info/de/programm/konferenzprogramm/lt</url>
+        <links />
+        <recording>
+          <license />
+          <optout>false</optout>
+        </recording>
+      </event>
+      <event id="25" guid="72141ac0-669e-5947-be16-917f7715bc47" code="TELGJ1">
+        <date>2026-05-07T14:05:00+02:00</date>
+        <start>14:05</start>
+        <duration>00:20</duration>
+        <room>Plateau</room>
+        <title>QA Elephantastisch!</title>
+        <subtitle />
+        <language>de</language>
+        <track>Specials</track>
+        <type>Talk</type>
+        <abstract>Was haben der 'Elefantenhaken', ein Spiegel und QA miteinander zu tun? In diesem Vortrag öffnet Ralf Somplatzki 'elephantastische' Perspektiven auf die Welt der Qualitätssicherung (QA). QA ist so viel mehr, als nur Softwaretest. Am Beispiel von Metaphern rund um Elefanten liefert der Vortrag Impulse für ein erweitertes Denken über das Testen hinaus. Dies ist nicht nur für Tester und Testmanager spannend. Das eine oder andere Beispiel eignet sich, um im eigenen Projekt die Stakeholder für eine…</abstract>
+        <description>Was haben der 'Elefantenhaken', ein Spiegel und QA miteinander zu tun? In diesem Vortrag öffnet Ralf Somplatzki 'elephantastische' Perspektiven auf die Welt der Qualitätssicherung (QA). QA ist so viel mehr, als nur Softwaretest. Am Beispiel von Metaphern rund um Elefanten liefert der Vortrag Impulse für ein erweitertes Denken über das Testen hinaus. Dies ist nicht nur für Tester und Testmanager spannend. Das eine oder andere Beispiel eignet sich, um im eigenen Projekt die Stakeholder für eine…</description>
+        <logo />
+        <persons>
+          <person id="20" guid="3160ef11-e90c-54cf-a9d4-aade5e466567">Ralf Somplatzki</person>
+        </persons>
+        <url>https://www.germantestingday.info/de/programm/konferenzprogramm/lt</url>
+        <links />
+        <recording>
+          <license />
+          <optout>false</optout>
+        </recording>
+      </event>
+      <event id="26" guid="c659f4b4-2141-5979-b982-bd3a522d39fd" code="PHIJ5G">
+        <date>2026-05-07T14:05:00+02:00</date>
+        <start>14:05</start>
+        <duration>00:20</duration>
+        <room>Plateau</room>
+        <title>The TestLänd: Wie eine Idee zur Community wurde</title>
+        <subtitle />
+        <language>de</language>
+        <track>Specials</track>
+        <type>Talk</type>
+        <abstract>Alles begann mit einer spontanen Idee auf einer Testkonferenz. Vier Menschen wollten den Austausch über Softwarequalität lebendig halten. Daraus entstand 'The TestLänd' mit dem Slogan 'Schaffe, schaffe, Testle baue'. Ich zeige, wie sich aus ersten Gesprächen eine wachsende Community entwickelte, die heute über 70 Mitglieder verbindet. Es geht um Motivation, Stolpersteine, kleine Erfolge und große Überraschungen. The TestLänd ist ein Beispiel dafür, wie Engagement und Neugier Menschen…</abstract>
+        <description>Alles begann mit einer spontanen Idee auf einer Testkonferenz. Vier Menschen wollten den Austausch über Softwarequalität lebendig halten. Daraus entstand 'The TestLänd' mit dem Slogan 'Schaffe, schaffe, Testle baue'. Ich zeige, wie sich aus ersten Gesprächen eine wachsende Community entwickelte, die heute über 70 Mitglieder verbindet. Es geht um Motivation, Stolpersteine, kleine Erfolge und große Überraschungen. The TestLänd ist ein Beispiel dafür, wie Engagement und Neugier Menschen…</description>
+        <logo />
+        <persons>
+          <person id="11" guid="baa28e35-9613-5b0d-8885-f771e8b7dda7">Matthias Groß</person>
+        </persons>
+        <url>https://www.germantestingday.info/de/programm/konferenzprogramm/lt</url>
+        <links />
+        <recording>
+          <license />
+          <optout>false</optout>
+        </recording>
+      </event>
+      <event id="27" guid="e0dd3279-1134-5bb0-830a-fb60f78d8546" code="NRSWHV">
+        <date>2026-05-07T14:25:00+02:00</date>
+        <start>14:25</start>
+        <duration>00:10</duration>
+        <room>Plateau</room>
+        <title>Programm-Teaser</title>
+        <subtitle />
+        <language>de</language>
+        <track>Specials</track>
+        <type>Talk</type>
+        <abstract />
+        <description />
+        <logo />
+        <persons />
+        <url>https://www.germantestingday.info/de/programm/konferenzprogramm/default-43900971054be53982f919f41150c5dd</url>
+        <links />
+        <recording>
+          <license />
+          <optout>false</optout>
+        </recording>
+      </event>
+      <event id="28" guid="42adaec7-f6ed-5196-bf9c-48cb473fd5e0" code="8GSC6N">
+        <date>2026-05-07T14:45:00+02:00</date>
+        <start>14:45</start>
+        <duration>00:35</duration>
+        <room>Plateau</room>
+        <title>Qualität gestalten statt prüfen - ein kompaktes Reifegradmodell für dein Team</title>
+        <subtitle />
+        <language>de</language>
+        <track>Vorträge</track>
+        <type>Talk</type>
+        <abstract>In Projekten taucht oft die Frage auf: 'Wie gut ist unsere Qualität?' Klassische Modelle liefern selten praktikable Antworten - sie sind komplex, abstrakt oder mit einer hohen Einstiegshürde verbunden. Deshalb habe ich ein kompaktes Selbstcheck-Reifegradmodell entwickelt, das Teams in nur 15-20 Minuten eine Standortbestimmung ermöglicht. Es umfasst praxisnahe Dimensionen wie Testdesign, Transparenz und Zusammenarbeit. Ein besonderer Vorteil: Das Modell liefert konkrete Vorschläge für nächste…</abstract>
+        <description>In Projekten taucht oft die Frage auf: 'Wie gut ist unsere Qualität?' Klassische Modelle liefern selten praktikable Antworten - sie sind komplex, abstrakt oder mit einer hohen Einstiegshürde verbunden. Deshalb habe ich ein kompaktes Selbstcheck-Reifegradmodell entwickelt, das Teams in nur 15-20 Minuten eine Standortbestimmung ermöglicht. Es umfasst praxisnahe Dimensionen wie Testdesign, Transparenz und Zusammenarbeit. Ein besonderer Vorteil: Das Modell liefert konkrete Vorschläge für nächste…</description>
+        <logo />
+        <persons>
+          <person id="21" guid="008a2521-a4a9-5e88-82d6-ea37d0f36abd">Oliver Schuhmacher</person>
+          <person id="22" guid="c994eff8-4aae-5b3d-8f33-de242213f339">Marvin Jakob</person>
+        </persons>
+        <url>https://www.germantestingday.info/de/programm/konferenzprogramm/do-34</url>
+        <links />
+        <recording>
+          <license />
+          <optout>false</optout>
+        </recording>
+      </event>
+      <event id="29" guid="b93db311-55ed-5bfa-bed4-cf2a4e1d3e02" code="SL1ECT">
+        <date>2026-05-07T15:30:00+02:00</date>
+        <start>15:30</start>
+        <duration>00:35</duration>
+        <room>Plateau</room>
+        <title>Fachlichkeit trifft KI: Wie intelligente Modelle Testdaten wirklich verstehen lernen</title>
+        <subtitle />
+        <language>de</language>
+        <track>Vorträge</track>
+        <type>Talk</type>
+        <abstract>Testdaten sind weit mehr als bloße Werte - sie spiegeln die fachliche Logik eines Systems wider und entscheiden darüber, welche Testpfade sinnvoll abgedeckt werden. Doch je komplexer die Fachlichkeit, desto schwieriger wird die automatisierte Generierung relevanter Testdaten. In diesem Vortrag zeige ich, wie wir ein KI-Modell so trainieren, dass es nicht nur syntaktisch korrekte, sondern fachlich valide Testdaten erzeugt. Dabei geht es um die Vermittlung von Domänenwissen, die Modellierung von…</abstract>
+        <description>Testdaten sind weit mehr als bloße Werte - sie spiegeln die fachliche Logik eines Systems wider und entscheiden darüber, welche Testpfade sinnvoll abgedeckt werden. Doch je komplexer die Fachlichkeit, desto schwieriger wird die automatisierte Generierung relevanter Testdaten. In diesem Vortrag zeige ich, wie wir ein KI-Modell so trainieren, dass es nicht nur syntaktisch korrekte, sondern fachlich valide Testdaten erzeugt. Dabei geht es um die Vermittlung von Domänenwissen, die Modellierung von…</description>
+        <logo />
+        <persons>
+          <person id="23" guid="eb3a1bd8-15f5-52d8-b194-c7735e2b37c8">Dennis Elbeshausen</person>
+        </persons>
+        <url>https://www.germantestingday.info/de/programm/konferenzprogramm/do-15</url>
+        <links />
+        <recording>
+          <license />
+          <optout>false</optout>
+        </recording>
+      </event>
+      <event id="30" guid="9abb4c15-75c5-5e00-9b54-f8d38715bf33" code="2R6M60">
+        <date>2026-05-07T16:35:00+02:00</date>
+        <start>16:35</start>
+        <duration>00:45</duration>
+        <room>Plateau</room>
+        <title>Faster, Safer, Better Maintainable! The Green Revolution in Software Testing</title>
+        <subtitle />
+        <language>de</language>
+        <track>Keynotes</track>
+        <type>Talk</type>
+        <abstract>The world is on fire! None of our efforts in software development will matter at all if we don’t change the course of the climate crisis. The software lifecycle also causes direct and indirect CO2 emissions: It leaves a footprint and exacerbates environmental problems. However, the environmental aspect is not the only one we need to focus on. If we take our responsibility seriously, we must consider software development holistically, in the sense of the so-called triple bottom line, from all…</abstract>
+        <description>The world is on fire! None of our efforts in software development will matter at all if we don’t change the course of the climate crisis. The software lifecycle also causes direct and indirect CO2 emissions: It leaves a footprint and exacerbates environmental problems. However, the environmental aspect is not the only one we need to focus on. If we take our responsibility seriously, we must consider software development holistically, in the sense of the so-called triple bottom line, from all…</description>
+        <logo />
+        <persons>
+          <person id="24" guid="15d0e3e6-7433-5e44-8743-89910c3e1467">Jutta Eckstein</person>
+        </persons>
+        <url>https://www.germantestingday.info/de/programm/konferenzprogramm/keydo-2</url>
+        <links />
+        <recording>
+          <license />
+          <optout>false</optout>
+        </recording>
+      </event>
+    </room>
+    <room name="Satellit" guid="69a31f0c-7a2b-5e9f-96ef-a6cef9a14f7a">
+      <event id="31" guid="cee6cacc-5f21-55f3-b58d-596a6d66d286" code="9QBI94">
+        <date>2026-05-07T10:35:00+02:00</date>
+        <start>10:35</start>
+        <duration>00:35</duration>
+        <room>Satellit</room>
+        <title>Geschlechtervielfalt gehört zu Accessibility</title>
+        <subtitle />
+        <language>de</language>
+        <track>Vorträge</track>
+        <type>Talk</type>
+        <abstract>Würden sie einen Account registrieren wenn es nur eine Anrede zur Auswahl gibt? Oder über sich selbst lügen weil Softwareeinschränkungen sie dazu zwingen? Was unrealistisch klingt ist für viele Menschen traurige Realität wenn sie Software benutzen welche mit persönlichen Daten umgeht. In diesem Vortrag werde ich die fünf häufigsten Probleme aufzeigen welche gender diverse Menschen in Software überwinden müssen und wie diese gelöst werden können. Anhand von Statistiken werden wir sehen dass es…</abstract>
+        <description>Würden sie einen Account registrieren wenn es nur eine Anrede zur Auswahl gibt? Oder über sich selbst lügen weil Softwareeinschränkungen sie dazu zwingen? Was unrealistisch klingt ist für viele Menschen traurige Realität wenn sie Software benutzen welche mit persönlichen Daten umgeht. In diesem Vortrag werde ich die fünf häufigsten Probleme aufzeigen welche gender diverse Menschen in Software überwinden müssen und wie diese gelöst werden können. Anhand von Statistiken werden wir sehen dass es…</description>
+        <logo />
+        <persons>
+          <person id="25" guid="533d3a46-3dd7-5f25-865a-10c1669118e9">Tobias Geyer</person>
+        </persons>
+        <url>https://www.germantestingday.info/de/programm/konferenzprogramm/do-21</url>
+        <links />
+        <recording>
+          <license />
+          <optout>false</optout>
+        </recording>
+      </event>
+      <event id="32" guid="1a3a4e62-801f-568e-b6c6-62e74e1c0f41" code="9S7Z6Z">
+        <date>2026-05-07T11:20:00+02:00</date>
+        <start>11:20</start>
+        <duration>00:35</duration>
+        <room>Satellit</room>
+        <title>Automated testing of Large Language Models: A Live Demo</title>
+        <subtitle />
+        <language>de</language>
+        <track>Vorträge</track>
+        <type>Talk</type>
+        <abstract>How do you test a large language model's shape-shifting outputs using automated tests? In this session, I will demonstrate the inner workings of a Retrieval Augmented Generation (RAG) model, and how you can qualify it using automated tests. Spoiler alert: testing an LLM's non-deterministic outputs will involve using another LLM to judge this output and score it. Once we run the tests, we will examine the stack traces to debug an unexpected result. We will then subject the RAG model to an…</abstract>
+        <description>How do you test a large language model's shape-shifting outputs using automated tests? In this session, I will demonstrate the inner workings of a Retrieval Augmented Generation (RAG) model, and how you can qualify it using automated tests. Spoiler alert: testing an LLM's non-deterministic outputs will involve using another LLM to judge this output and score it. Once we run the tests, we will examine the stack traces to debug an unexpected result. We will then subject the RAG model to an…</description>
+        <logo />
+        <persons>
+          <person id="26" guid="42946cde-9f41-54c2-a2ef-df41f9b8dead">Anupam Krishnamurthy</person>
+        </persons>
+        <url>https://www.germantestingday.info/de/programm/konferenzprogramm/do-12</url>
+        <links />
+        <recording>
+          <license />
+          <optout>false</optout>
+        </recording>
+      </event>
+      <event id="33" guid="2788e551-b3a2-5302-817e-2a38554e992c" code="F31Z5N">
+        <date>2026-05-07T12:05:00+02:00</date>
+        <start>12:05</start>
+        <duration>00:35</duration>
+        <room>Satellit</room>
+        <title>Vom Prompt zum lauffähigen Test – mit Robot Framework und RF-MCP</title>
+        <subtitle />
+        <language>de</language>
+        <track>Vorträge</track>
+        <type>Talk</type>
+        <abstract>KI-Agenten versprechen, Tests aus natürlicher Sprache zu generieren. Die Realität sieht anders aus: Was rauskommt, sieht aus wie ein Robot-Framework-Test – ist aber keiner. Falsche Libraries, halluzinierte Keywords, kein Wissen über euren Application State. In diesem Vortrag zeige ich, warum generische Coding-Agenten an Robot Framework scheitern und wie der RF-MCP Server diese Lücke schließt. Statt Code „auf Verdacht" zu generieren, führt er jeden Schritt im echten RF-Kontext aus, gibt dem Agent…</abstract>
+        <description>KI-Agenten versprechen, Tests aus natürlicher Sprache zu generieren. Die Realität sieht anders aus: Was rauskommt, sieht aus wie ein Robot-Framework-Test – ist aber keiner. Falsche Libraries, halluzinierte Keywords, kein Wissen über euren Application State. In diesem Vortrag zeige ich, warum generische Coding-Agenten an Robot Framework scheitern und wie der RF-MCP Server diese Lücke schließt. Statt Code „auf Verdacht" zu generieren, führt er jeden Schritt im echten RF-Kontext aus, gibt dem Agent…</description>
+        <logo />
+        <persons>
+          <person id="27" guid="97ee85f5-1abc-5ab9-9b80-3396b4e63d5d">Many Kasiriha</person>
+        </persons>
+        <url>https://www.germantestingday.info/de/programm/konferenzprogramm/do-13</url>
+        <links />
+        <recording>
+          <license />
+          <optout>false</optout>
+        </recording>
+      </event>
+      <event id="34" guid="6e4c80c9-6fa3-5c3d-b6a8-929ffc0f49e5" code="LP3KTN">
+        <date>2026-05-07T14:45:00+02:00</date>
+        <start>14:45</start>
+        <duration>00:35</duration>
+        <room>Satellit</room>
+        <title>Quality Coaching Reimagined: A Journey of Discovery and Impact</title>
+        <subtitle />
+        <language>de</language>
+        <track>Vorträge</track>
+        <type>Talk</type>
+        <abstract>When I moved from Test Lead to Quality Coach, I felt ready: strong in testing, facilitation, and mentoring. But coaching brought unexpected complexity. I wasn't just solving test issues anymore; I was navigating agile dynamics, DevOps challenges, and unclear leadership goals. I learned that coaching isn't about answers; it's about asking the right questions and helping teams prioritize quality in their own context. In this talk, I'll share what worked, what didn't, and how I now guide teams…</abstract>
+        <description>When I moved from Test Lead to Quality Coach, I felt ready: strong in testing, facilitation, and mentoring. But coaching brought unexpected complexity. I wasn't just solving test issues anymore; I was navigating agile dynamics, DevOps challenges, and unclear leadership goals. I learned that coaching isn't about answers; it's about asking the right questions and helping teams prioritize quality in their own context. In this talk, I'll share what worked, what didn't, and how I now guide teams…</description>
+        <logo />
+        <persons>
+          <person id="28" guid="e895bfce-9192-5e30-836a-33e093a1575f">Emna Ayadi</person>
+        </persons>
+        <url>https://www.germantestingday.info/de/programm/konferenzprogramm/do-24</url>
+        <links />
+        <recording>
+          <license />
+          <optout>false</optout>
+        </recording>
+      </event>
+      <event id="35" guid="22cdc708-60aa-5966-b09c-2fe3ae3dd395" code="V65M75">
+        <date>2026-05-07T15:30:00+02:00</date>
+        <start>15:30</start>
+        <duration>00:35</duration>
+        <room>Satellit</room>
+        <title>The Many Faces of Test Documentation: From Lean Practices to Hidden Business Value</title>
+        <subtitle />
+        <language>de</language>
+        <track>Vorträge</track>
+        <type>Talk</type>
+        <abstract>Test documentation is often perceived either as unnecessary bureaucracy or ignored completely in agile teams. Both extremes create risks: over-documentation leads to waste, while missing documentation reduces transparency and knowledge sharing. In this talk, we explore practical strategies for lean and useful documentation, compare lessons learned from popular test management tools (TestRail, Xray, Zephyr), and discuss the role of documentation in agile environments. Finally, we highlight its…</abstract>
+        <description>Test documentation is often perceived either as unnecessary bureaucracy or ignored completely in agile teams. Both extremes create risks: over-documentation leads to waste, while missing documentation reduces transparency and knowledge sharing. In this talk, we explore practical strategies for lean and useful documentation, compare lessons learned from popular test management tools (TestRail, Xray, Zephyr), and discuss the role of documentation in agile environments. Finally, we highlight its…</description>
+        <logo />
+        <persons>
+          <person id="29" guid="636a3e95-983b-5a9c-b5de-c4da09c414db">Dina Vakhitova</person>
+        </persons>
+        <url>https://www.germantestingday.info/de/programm/konferenzprogramm/do-35</url>
+        <links />
+        <recording>
+          <license />
+          <optout>false</optout>
+        </recording>
+      </event>
+    </room>
+    <room name="Sirius" guid="d2fb125f-a99c-5cd5-8700-f2c4096979ec">
+      <event id="36" guid="71637969-aa0b-5fcb-b604-16b7f924c2c2" code="YY5Z3S">
+        <date>2026-05-07T10:35:00+02:00</date>
+        <start>10:35</start>
+        <duration>02:05</duration>
+        <room>Sirius</room>
+        <title>Limitiert Quality Sprint: Gemeinsam hartnäckige Qualitätsprobleme anpacken</title>
+        <subtitle />
+        <language>de</language>
+        <track>Workshops</track>
+        <type>Talk</type>
+        <abstract>Du möchtest schnell wertvolle Quality-Insights gewinnen und konkrete Massnahmen ableiten? Dann sei bei unserem Quality Sprint Tutorial dabei! Wir zeigen dir wie du einen qualitätsfokussierten Workshop mit relevanten Stakeholder:innen strukturierst und moderierst - von der Standortbestimmung über Interviews bis zur Ableitung greifbarer Action Items. So nutzt du die entstehende Dynamik optimal und schaffst echten Mehrwert. Am meisten Spass macht es mit realen Praxisbeispielen: Bring deine…</abstract>
+        <description>Du möchtest schnell wertvolle Quality-Insights gewinnen und konkrete Massnahmen ableiten? Dann sei bei unserem Quality Sprint Tutorial dabei! Wir zeigen dir wie du einen qualitätsfokussierten Workshop mit relevanten Stakeholder:innen strukturierst und moderierst - von der Standortbestimmung über Interviews bis zur Ableitung greifbarer Action Items. So nutzt du die entstehende Dynamik optimal und schaffst echten Mehrwert. Am meisten Spass macht es mit realen Praxisbeispielen: Bring deine…</description>
+        <logo />
+        <persons>
+          <person id="13" guid="7dcf9999-eb81-5cc3-918d-a4571a11ca1b">Pia Wiedermayer</person>
+          <person id="30" guid="a88150f8-4551-53b1-bf5a-75d928de5ba4">Roman Kirchmeier</person>
+        </persons>
+        <url>https://www.germantestingday.info/de/programm/konferenzprogramm/do-41</url>
+        <links />
+        <recording>
+          <license />
+          <optout>false</optout>
+        </recording>
+      </event>
+      <event id="37" guid="6c6d9bd8-6162-5326-9d32-1ad9eb16bfa5" code="N4SSK0">
+        <date>2026-05-07T14:45:00+02:00</date>
+        <start>14:45</start>
+        <duration>01:20</duration>
+        <room>Sirius</room>
+        <title>Beyond LLMs – DIY AI Agents</title>
+        <subtitle />
+        <language>de</language>
+        <track>Workshops</track>
+        <type>Talk</type>
+        <abstract>In this workshop, we want to explore what AI agents are, how they are technically structured, and what you can do with them. To do this, we will first look at some architectural patterns. Once the theory is clear, we will put together our own agent and try it out by triggering actions and letting the AI make decisions on its own. No programming knowledge or special software is required, but you will need a laptop. It will be very hands-on! Target Audience: anyone interested in the topicPrerequis…</abstract>
+        <description>In this workshop, we want to explore what AI agents are, how they are technically structured, and what you can do with them. To do this, we will first look at some architectural patterns. Once the theory is clear, we will put together our own agent and try it out by triggering actions and letting the AI make decisions on its own. No programming knowledge or special software is required, but you will need a laptop. It will be very hands-on! Target Audience: anyone interested in the topicPrerequis…</description>
+        <logo />
+        <persons>
+          <person id="31" guid="49ecc704-dd59-56bf-b87e-c19ac0801af7">Anne Kramer</person>
+        </persons>
+        <url>https://www.germantestingday.info/de/programm/konferenzprogramm/do-44</url>
+        <links />
+        <recording>
+          <license />
+          <optout>false</optout>
+        </recording>
+      </event>
+    </room>
+    <room name="Solar" guid="f0538fd2-257e-56c7-aa23-5fd4f2adfa07">
+      <event id="38" guid="da9f56e0-d7ea-5e06-bcb9-6bc0d0a2153e" code="O20WFX">
+        <date>2026-05-07T10:35:00+02:00</date>
+        <start>10:35</start>
+        <duration>00:35</duration>
+        <room>Solar</room>
+        <title>Escape the Grind: Let AI Agents Handle the Drudgery, You Handle the Strategy</title>
+        <subtitle />
+        <language>de</language>
+        <track>Vorträge</track>
+        <type>Talk</type>
+        <abstract>Traditional QA is a bottleneck. This session unveils a revolutionary, agent-based framework that creates a truly autonomous testing ecosystem with human intelligence at its core. See how specialized AI agents manage the entire testing lifecycle--from requirements analysis to script-less test execution and reporting--under human supervision. Escape the drudgery of repetitive manual work and brittle tests. It's time to elevate your role from execution to strategy and let AI handle the grind. Targe…</abstract>
+        <description>Traditional QA is a bottleneck. This session unveils a revolutionary, agent-based framework that creates a truly autonomous testing ecosystem with human intelligence at its core. See how specialized AI agents manage the entire testing lifecycle--from requirements analysis to script-less test execution and reporting--under human supervision. Escape the drudgery of repetitive manual work and brittle tests. It's time to elevate your role from execution to strategy and let AI handle the grind. Targe…</description>
+        <logo />
+        <persons>
+          <person id="32" guid="905c6bbc-5e45-5dc3-8cb7-970b120e5875">Taras Paruta</person>
+        </persons>
+        <url>https://www.germantestingday.info/de/programm/konferenzprogramm/do-11</url>
+        <links />
+        <recording>
+          <license />
+          <optout>false</optout>
+        </recording>
+      </event>
+      <event id="39" guid="e12468c4-3d0b-5f09-a9eb-513c1c7e9504" code="AZGQ77">
+        <date>2026-05-07T11:20:00+02:00</date>
+        <start>11:20</start>
+        <duration>00:35</duration>
+        <room>Solar</room>
+        <title>From Volume to Value: Rethinking Test Automation with Risk at its core</title>
+        <subtitle />
+        <language>de</language>
+        <track>Vorträge</track>
+        <type>Talk</type>
+        <abstract>Regression runs took hours, backlogs were full of unprioritized tests, and teams had little visibility into automation value. Confidence in releases was low, despite large test suites. To address this, I conducted a test automation assessment and introduced a decision matrix to prioritize tests by business value and automation complexity. This helped teams focus on meaningful tests, reduce overhead, and apply a risk-based mindset. In this session, I'll share how this approach turned automation…</abstract>
+        <description>Regression runs took hours, backlogs were full of unprioritized tests, and teams had little visibility into automation value. Confidence in releases was low, despite large test suites. To address this, I conducted a test automation assessment and introduced a decision matrix to prioritize tests by business value and automation complexity. This helped teams focus on meaningful tests, reduce overhead, and apply a risk-based mindset. In this session, I'll share how this approach turned automation…</description>
+        <logo />
+        <persons>
+          <person id="33" guid="5838e35a-adf0-50a2-bc40-19e52f4abdc5">Tugba Karakaya</person>
+        </persons>
+        <url>https://www.germantestingday.info/de/programm/konferenzprogramm/do-22</url>
+        <links />
+        <recording>
+          <license />
+          <optout>false</optout>
+        </recording>
+      </event>
+      <event id="40" guid="fe48e745-e032-5585-90fc-0dcaa2c592e3" code="U7P9MF">
+        <date>2026-05-07T12:05:00+02:00</date>
+        <start>12:05</start>
+        <duration>00:35</duration>
+        <room>Solar</room>
+        <title>Ein Experiment zu 100% Testabdeckung</title>
+        <subtitle />
+        <language>de</language>
+        <track>Vorträge</track>
+        <type>Talk</type>
+        <abstract>Wer achtet bei seinen Unit-Tests auf die Testabdeckung? Was ist mit nicht getesteten Zeilen, sind die überflüssig? Ich werde über ein Experiment berichten: Ist es möglich, 100% Testabdeckung zu erreichen? Sind Änderungen am Code dafür notwendig? Wie ändert sich dadurch der eigene Programmierstil? 'System under Test' war der Interpreter einer funktionalen Sprache (Sprachkern und zugehörige Standardbibliothek). Beim Test der I/O Funktionen auf Datei- und HTTP-Basis habe ich den Bereich der…</abstract>
+        <description>Wer achtet bei seinen Unit-Tests auf die Testabdeckung? Was ist mit nicht getesteten Zeilen, sind die überflüssig? Ich werde über ein Experiment berichten: Ist es möglich, 100% Testabdeckung zu erreichen? Sind Änderungen am Code dafür notwendig? Wie ändert sich dadurch der eigene Programmierstil? 'System under Test' war der Interpreter einer funktionalen Sprache (Sprachkern und zugehörige Standardbibliothek). Beim Test der I/O Funktionen auf Datei- und HTTP-Basis habe ich den Bereich der…</description>
+        <logo />
+        <persons>
+          <person id="34" guid="fbe58b36-52b7-58c7-83f2-299501105950">Roger Butenuth</person>
+        </persons>
+        <url>https://www.germantestingday.info/de/programm/konferenzprogramm/do-23</url>
+        <links />
+        <recording>
+          <license />
+          <optout>false</optout>
+        </recording>
+      </event>
+      <event id="41" guid="60e4cc84-14c8-5cd1-852b-51b3e6259619" code="PYT0E6">
+        <date>2026-05-07T14:45:00+02:00</date>
+        <start>14:45</start>
+        <duration>00:35</duration>
+        <room>Solar</room>
+        <title>Nachhaltiges Softwaretesten: Qualität, Effizienz und ökologische Verantwortung im Zeitalter der KI ausbalancieren</title>
+        <subtitle />
+        <language>de</language>
+        <track>Vorträge</track>
+        <type>Talk</type>
+        <abstract>Nachhaltigkeit wird zu einer zentralen Dimension der Softwarequalität, ihr Einfluss auf das Testing bleibt jedoch wenig untersucht. Dieser Beitrag stellt ein Rahmenwerk für nachhaltiges Softwaretesting vor, basierend auf drei Prinzipien: Optimierung von Testprozessen zur Ressourcensenkung, Einführung nachhaltigkeitsbewusster Kennzahlen und Förderung organisatorischen Bewusstseins für den gezielten Einsatz von KI und Automatisierung. Praxisbeispiele zeigen, wie risikobasierte Tests,…</abstract>
+        <description>Nachhaltigkeit wird zu einer zentralen Dimension der Softwarequalität, ihr Einfluss auf das Testing bleibt jedoch wenig untersucht. Dieser Beitrag stellt ein Rahmenwerk für nachhaltiges Softwaretesting vor, basierend auf drei Prinzipien: Optimierung von Testprozessen zur Ressourcensenkung, Einführung nachhaltigkeitsbewusster Kennzahlen und Förderung organisatorischen Bewusstseins für den gezielten Einsatz von KI und Automatisierung. Praxisbeispiele zeigen, wie risikobasierte Tests,…</description>
+        <logo />
+        <persons>
+          <person id="35" guid="cbd6ae11-8755-5514-b40c-687ab0db974c">Lilia Gargouri</person>
+        </persons>
+        <url>https://www.germantestingday.info/de/programm/konferenzprogramm/do-14</url>
+        <links />
+        <recording>
+          <license />
+          <optout>false</optout>
+        </recording>
+      </event>
+      <event id="42" guid="4e892366-9c43-5d00-b16d-33618c47119a" code="VRZCYU">
+        <date>2026-05-07T15:30:00+02:00</date>
+        <start>15:30</start>
+        <duration>00:35</duration>
+        <room>Solar</room>
+        <title>Von BDT zu MBT: einheitlicher Shift-Left Ansatz für agile und klassische Projekte</title>
+        <subtitle />
+        <language>de</language>
+        <track>Vorträge</track>
+        <type>Talk</type>
+        <abstract>2024 beschloss PARI, einen modellbasierten Shift-Left-Ansatz einzuführen und die Behaviour-Driven Landschaft schrittweise abzulösen. Stellen Sie sich vor, Sie haben eine komplexe Anforderungsarchitektur, unterliegen der Regulierung und müssen Gebrauchstauglichkeit, funktionaler Sicherheit und Cybersecurity mit wenig Ressourcen gewährleisten. Das Ganze in einem teils agilen, teils klassisch sequentiellen Umfeld. Diese strategische Notwendigkeit hat sich als Inkubator für Entwicklungs- und…</abstract>
+        <description>2024 beschloss PARI, einen modellbasierten Shift-Left-Ansatz einzuführen und die Behaviour-Driven Landschaft schrittweise abzulösen. Stellen Sie sich vor, Sie haben eine komplexe Anforderungsarchitektur, unterliegen der Regulierung und müssen Gebrauchstauglichkeit, funktionaler Sicherheit und Cybersecurity mit wenig Ressourcen gewährleisten. Das Ganze in einem teils agilen, teils klassisch sequentiellen Umfeld. Diese strategische Notwendigkeit hat sich als Inkubator für Entwicklungs- und…</description>
+        <logo />
+        <persons>
+          <person id="36" guid="232aef40-6956-5499-847e-43eca5494245">Giovanna Simeoni</person>
+        </persons>
+        <url>https://www.germantestingday.info/de/programm/konferenzprogramm/do-25</url>
+        <links />
+        <recording>
+          <license />
+          <optout>false</optout>
+        </recording>
+      </event>
+    </room>
+    <room name="Stratus" guid="b8a0ccf3-2a71-5218-8719-ebf64092b5fc">
+      <event id="43" guid="2ea9ef0b-cfec-5cda-b002-8b9bd0e3b915" code="YB2CHE">
+        <date>2026-05-07T10:35:00+02:00</date>
+        <start>10:35</start>
+        <duration>00:35</duration>
+        <room>Stratus</room>
+        <title>sponsored | Alle wollen Shift Left, aber unsere Tests sind einfach zu langsam</title>
+        <subtitle />
+        <language>de</language>
+        <track>Track+</track>
+        <type>Talk</type>
+        <abstract>Tests möglichst oft und möglichst früh auszuführen – das ist der Traum vieler agiler Tester und Testerinnen. Am besten nach jeder Änderung und auf allen Branches, damit wir sofort merken, wenn wir etwas kaputt gemacht haben.Aber wie soll das gehen, wenn meine Tests Stunden oder sogar Tage dauern? Was, wenn ich manuell teste? Da erscheint der Traum vom beschleunigten Testprozess schnell unerreichbar.Doch die Forschung zeigt Lösungsmöglichkeiten auf: Ein Ansatz, um auch mit langsamen Tests…</abstract>
+        <description>Tests möglichst oft und möglichst früh auszuführen – das ist der Traum vieler agiler Tester und Testerinnen. Am besten nach jeder Änderung und auf allen Branches, damit wir sofort merken, wenn wir etwas kaputt gemacht haben.Aber wie soll das gehen, wenn meine Tests Stunden oder sogar Tage dauern? Was, wenn ich manuell teste? Da erscheint der Traum vom beschleunigten Testprozess schnell unerreichbar.Doch die Forschung zeigt Lösungsmöglichkeiten auf: Ein Ansatz, um auch mit langsamen Tests…</description>
+        <logo />
+        <persons>
+          <person id="3" guid="a4f4feb8-09d0-5eac-b3d3-7b7a24c80b30">Sven Amann</person>
+        </persons>
+        <url>https://www.germantestingday.info/de/programm/konferenzprogramm/t4-1</url>
+        <links />
+        <recording>
+          <license />
+          <optout>false</optout>
+        </recording>
+      </event>
+      <event id="44" guid="748060a5-2c8b-5d60-aa18-db0c5e7c80b0" code="GFZTL2">
+        <date>2026-05-07T11:20:00+02:00</date>
+        <start>11:20</start>
+        <duration>00:35</duration>
+        <room>Stratus</room>
+        <title>sponsored | Dummy-Daten und Digital Twins: Testdaten in komplexen Systemlandschaften</title>
+        <subtitle />
+        <language>de</language>
+        <track>Track+</track>
+        <type>Talk</type>
+        <abstract>Testdaten gehören in vielen Projekten zu den am wenigsten bewusst gestalteten Teilen des Entwicklungsprozesses: irgendetwas wird „reingefaked“, ein Dump aus der Produktion kopiert, ein paar Skripte drumherum – und sobald Tests instabil werden, bleibt unklar, ob der Code oder die Daten das Problem sind. Gleichzeitig wachsen Systeme und Komplexität mit der Zeit: mehrere Datenbanken und Services werden nötig, um die Geschäftsrealität abzubilden und die Dokumentation hinkt hinterher. Ein Ausweg…</abstract>
+        <description>Testdaten gehören in vielen Projekten zu den am wenigsten bewusst gestalteten Teilen des Entwicklungsprozesses: irgendetwas wird „reingefaked“, ein Dump aus der Produktion kopiert, ein paar Skripte drumherum – und sobald Tests instabil werden, bleibt unklar, ob der Code oder die Daten das Problem sind. Gleichzeitig wachsen Systeme und Komplexität mit der Zeit: mehrere Datenbanken und Services werden nötig, um die Geschäftsrealität abzubilden und die Dokumentation hinkt hinterher. Ein Ausweg…</description>
+        <logo />
+        <persons>
+          <person id="37" guid="96e5fbc3-3c13-50d0-b6f3-91cfb4fe2628">Danny Tamm</person>
+        </persons>
+        <url>https://www.germantestingday.info/de/programm/konferenzprogramm/t5-1</url>
+        <links />
+        <recording>
+          <license />
+          <optout>false</optout>
+        </recording>
+      </event>
+      <event id="45" guid="6368c54c-4287-5269-ae7d-be90d3d67563" code="B9D5XQ">
+        <date>2026-05-07T12:05:00+02:00</date>
+        <start>12:05</start>
+        <duration>00:35</duration>
+        <room>Stratus</room>
+        <title>sponsored | Eiersollbruchstellenverursacher Reloaded: Wie ist das jetzt mit KI im Testing?</title>
+        <subtitle />
+        <language>de</language>
+        <track>Track+</track>
+        <type>Talk</type>
+        <abstract>Beim German Testing Day haben wir in den letzten Jahren gemeinsam mit euch diskutiert, was Künstliche Intelligenz für das Testing wirklich bedeutet – zwischen Hype, Hoffnung und der Frage: Schweizer Taschenmesser oder doch eher Eiersollbruchstellenverursacher? Zeit für ein ehrliches Update. Denn rückblickend gilt: Wir lagen nicht immer richtig. Manches ist schneller Realität geworden als gedacht, anderes hat sich relativiert. Was wir aber definitiv unterschätzt haben, ist das Tempo, mit dem sich…</abstract>
+        <description>Beim German Testing Day haben wir in den letzten Jahren gemeinsam mit euch diskutiert, was Künstliche Intelligenz für das Testing wirklich bedeutet – zwischen Hype, Hoffnung und der Frage: Schweizer Taschenmesser oder doch eher Eiersollbruchstellenverursacher? Zeit für ein ehrliches Update. Denn rückblickend gilt: Wir lagen nicht immer richtig. Manches ist schneller Realität geworden als gedacht, anderes hat sich relativiert. Was wir aber definitiv unterschätzt haben, ist das Tempo, mit dem sich…</description>
+        <logo />
+        <persons>
+          <person id="38" guid="314a2938-2535-599c-951c-437122bac06d">Dirk Hedderich</person>
+        </persons>
+        <url>https://www.germantestingday.info/de/programm/konferenzprogramm/t6</url>
+        <links />
+        <recording>
+          <license />
+          <optout>false</optout>
+        </recording>
+      </event>
+      <event id="46" guid="135ad9c7-f91d-5b06-96d4-38dc82086615" code="7I5PVN">
+        <date>2026-05-07T14:45:00+02:00</date>
+        <start>14:45</start>
+        <duration>00:35</duration>
+        <room>Stratus</room>
+        <title>sponsored | Alles machbar mit Accessibility-Tools – Erweitere deinen Werkzeugkasten</title>
+        <subtitle />
+        <language>de</language>
+        <track>Track+</track>
+        <type>Talk</type>
+        <abstract>Für jedes Problem das passende Werkzeug. Wer sein Accessibility-Testing verbessern will, steht schnell vor einem Baumarkt voller Möglichkeiten. Doch was taugt wirklich, und wie bekommt man bei dieser Vielfalt den Überblick? Ich stelle eine Auswahl an Tools für Barrierefreiheitstests vor, die sich in der Praxis für mich bewährt haben. Dabei betrachten wir Einsatzszenarien, vergleichen Stärken und Grenzen und wo welches Tool hilft. Schritt für Schritt entsteht so ein Test-Werkzeugkasten, der sich…</abstract>
+        <description>Für jedes Problem das passende Werkzeug. Wer sein Accessibility-Testing verbessern will, steht schnell vor einem Baumarkt voller Möglichkeiten. Doch was taugt wirklich, und wie bekommt man bei dieser Vielfalt den Überblick? Ich stelle eine Auswahl an Tools für Barrierefreiheitstests vor, die sich in der Praxis für mich bewährt haben. Dabei betrachten wir Einsatzszenarien, vergleichen Stärken und Grenzen und wo welches Tool hilft. Schritt für Schritt entsteht so ein Test-Werkzeugkasten, der sich…</description>
+        <logo />
+        <persons>
+          <person id="39" guid="1bdf34d1-c5ee-53d8-b9b6-7ea785d16128">Anna Bommas</person>
+        </persons>
+        <url>https://www.germantestingday.info/de/programm/konferenzprogramm/t7</url>
+        <links />
+        <recording>
+          <license />
+          <optout>false</optout>
+        </recording>
+      </event>
+      <event id="47" guid="8c9c0861-091d-509a-b423-9430413c2e8f" code="ZWVE25">
+        <date>2026-05-07T15:30:00+02:00</date>
+        <start>15:30</start>
+        <duration>00:35</duration>
+        <room>Stratus</room>
+        <title>sponsored | Software Defined Automation Needs Software Defined Validation - Von flakigen Tests zur Testarchitektur in industriellen Systemen</title>
+        <subtitle />
+        <language>de</language>
+        <track>Track+</track>
+        <type>Talk</type>
+        <abstract>Flaky Tests sind ein weit verbreitetes Problem in modernen Softwaresystemen. Tests schlagen scheinbar zufällig fehl, Pipelines werden instabil, und Teams versuchen, das Problem mit Retries, zusätzlichen Waits oder besseren Selektoren zu beheben — oft mit begrenztem Erfolg. Dieser Vortrag verfolgt einen anderen Ansatz: Flaky Tests sind nicht zufällig - sie sind ein Symptom fehlender Struktur.In vielen Fällen konzentriert sich Testautomatisierung auf die Ausführung von Interaktionen (Klicks,…</abstract>
+        <description>Flaky Tests sind ein weit verbreitetes Problem in modernen Softwaresystemen. Tests schlagen scheinbar zufällig fehl, Pipelines werden instabil, und Teams versuchen, das Problem mit Retries, zusätzlichen Waits oder besseren Selektoren zu beheben — oft mit begrenztem Erfolg. Dieser Vortrag verfolgt einen anderen Ansatz: Flaky Tests sind nicht zufällig - sie sind ein Symptom fehlender Struktur.In vielen Fällen konzentriert sich Testautomatisierung auf die Ausführung von Interaktionen (Klicks,…</description>
+        <logo />
+        <persons>
+          <person id="40" guid="a4901101-9aba-5c22-b75f-c67863100b23">Enrique Contreras Martinez</person>
+        </persons>
+        <url>https://www.germantestingday.info/de/programm/konferenzprogramm/t8-1</url>
+        <links />
+        <recording>
+          <license />
+          <optout>false</optout>
+        </recording>
+      </event>
+    </room>
+  </day>
+</schedule>
