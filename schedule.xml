@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://c3voc.de/schedule/schema.xsd">
-  <version>2026-05-03T11:10:17+02:00</version>
+  <version>2026-05-06T22:34:21+02:00</version>
   <conference>
     <acronym>gtd2026</acronym>
     <title>German Testing Day 2026</title>
@@ -9,8 +9,8 @@
     <days>2</days>
     <timeslot_duration>00:05</timeslot_duration>
     <time_zone_name>Europe/Berlin</time_zone_name>
-    <url>https://192.168.178.182:18443/German%20Testing%20Day%202026%20_%20Programm.html</url>
-    <base_url>https://192.168.178.182:18443/German%20Testing%20Day%202026%20_%20Programm.html</base_url>
+    <url>https://www.germantestingday.info/de/programm/konferenzprogramm</url>
+    <base_url>https://www.germantestingday.info/de/programm/konferenzprogramm</base_url>
     <track name="General">General</track>
     <track name="Keynotes">Keynotes</track>
     <track name="Specials">Specials</track>
@@ -181,21 +181,21 @@
       </event>
     </room>
     <room name="Satellit" guid="69a31f0c-7a2b-5e9f-96ef-a6cef9a14f7a">
-      <event id="8" guid="bc73de9a-44cf-5792-a9b3-fa82ecdd65a6" code="1VJIBX">
+      <event id="8" guid="628aa978-3abd-5a29-ae9d-8ef13bd889e9" code="3ZST14">
         <date>2026-05-06T16:00:00+02:00</date>
         <start>16:00</start>
         <duration>00:35</duration>
         <room>Satellit</room>
-        <title>Lastenhefte unplugged: Mythen entzaubert - und in 2 Wochen zum agilen, testbaren Ergebnis</title>
+        <title>Der DevOps-Spagat: Qualität sicherstellen durch Integriertes Testen</title>
         <subtitle />
         <language>de</language>
         <track>Vorträge</track>
         <type>Talk</type>
-        <abstract>Lastenhefte gelten oft als verstaubt, bürokratisch und unpraktisch. Doch das ist ein Mythos! In meinem Vortrag zeige ich, wie Lastenhefte zu echten Rockstars im Projekt werden: klar, fokussiert und agil. Anhand eines erprobten 5-Schritte-Modells erfährst Du, wie in nur zwei Wochen ein freigegebenes Lastenheft entsteht - ohne Overhead, dafür mit testbaren Anforderungen, die Abnahmen erleichtern und Tests beschleunigen. Schluss mit Chaos, wir bringen Struktur und Drive ins Engineering! Zielgruppe…</abstract>
-        <description>Lastenhefte gelten oft als verstaubt, bürokratisch und unpraktisch. Doch das ist ein Mythos! In meinem Vortrag zeige ich, wie Lastenhefte zu echten Rockstars im Projekt werden: klar, fokussiert und agil. Anhand eines erprobten 5-Schritte-Modells erfährst Du, wie in nur zwei Wochen ein freigegebenes Lastenheft entsteht - ohne Overhead, dafür mit testbaren Anforderungen, die Abnahmen erleichtern und Tests beschleunigen. Schluss mit Chaos, wir bringen Struktur und Drive ins Engineering! Zielgruppe…</description>
+        <abstract>Beschreibung: Erfahre in diesem Talk die Grundprinzipien von DevOps und wie sie das Testen beeinflussen. Wir werden aufzeigen, wie Qualität und Testen in DevOps-Prozessen verankert werden können, indem wir bekannte Konzepte wie Shift Left und Shift Right neu interpretieren und auf die Herausforderungen des modernen Softwareentwicklungsprozesses anpassen. Zielgruppe: Diese Einreichung richtet sich an Interessenten, die noch nicht tiefergehend mit dem Thema "Testen in DevOps" auseinandergesetzt…</abstract>
+        <description>Beschreibung: Erfahre in diesem Talk die Grundprinzipien von DevOps und wie sie das Testen beeinflussen. Wir werden aufzeigen, wie Qualität und Testen in DevOps-Prozessen verankert werden können, indem wir bekannte Konzepte wie Shift Left und Shift Right neu interpretieren und auf die Herausforderungen des modernen Softwareentwicklungsprozesses anpassen. Zielgruppe: Diese Einreichung richtet sich an Interessenten, die noch nicht tiefergehend mit dem Thema "Testen in DevOps" auseinandergesetzt…</description>
         <logo />
         <persons>
-          <person id="6" guid="31cb81b5-ed22-5ddc-8bb2-47d13aee8d1c">Björn Schorre</person>
+          <person id="6" guid="28cf9927-ec37-52fd-b871-e3cb6ef44844">Christian Kram</person>
         </persons>
         <url>https://www.germantestingday.info/de/programm/konferenzprogramm/mi-21</url>
         <links />
@@ -227,21 +227,21 @@
           <optout>false</optout>
         </recording>
       </event>
-      <event id="10" guid="706ee1ca-96de-5bb4-891e-4a6b95493fb7" code="ZETW29">
+      <event id="10" guid="dbb9bc9c-9643-5955-9790-ba6c8ff26832" code="I9F3KW">
         <date>2026-05-06T17:30:00+02:00</date>
         <start>17:30</start>
         <duration>00:35</duration>
         <room>Satellit</room>
-        <title>Glue work makes the crew work</title>
+        <title>Technical Debt</title>
         <subtitle />
         <language>de</language>
         <track>Vorträge</track>
         <type>Talk</type>
-        <abstract>Many of us wonder how much of our day-to-day work can be done by machines. Will AI even take our jobs? But you know what AI can't do? Glue work! The invisible work that needs to be done to make a team successful, like onboarding a new team member, crafting connections, and getting people to talk with each other, is often overlooked and less promotable than concrete engineering tasks. Yet, none of us would want to work in a team without any glue, even if it is invisible. So, let's talk about…</abstract>
-        <description>Many of us wonder how much of our day-to-day work can be done by machines. Will AI even take our jobs? But you know what AI can't do? Glue work! The invisible work that needs to be done to make a team successful, like onboarding a new team member, crafting connections, and getting people to talk with each other, is often overlooked and less promotable than concrete engineering tasks. Yet, none of us would want to work in a team without any glue, even if it is invisible. So, let's talk about…</description>
+        <abstract>What is technical debt? Why do we constantly create technical debt? This talk explores decision making and irrationality when doing trade off decisions. A comparison with loan on the bank is taken as benchmark. Held on Siemens Healthineers Testing Conference 2023.</abstract>
+        <description>What is technical debt? Why do we constantly create technical debt? This talk explores decision making and irrationality when doing trade off decisions. A comparison with loan on the bank is taken as benchmark. Held on Siemens Healthineers Testing Conference 2023.</description>
         <logo />
         <persons>
-          <person id="8" guid="928891f3-4c96-509c-84f6-387398654f73">Sophie Küster</person>
+          <person id="8" guid="35b54595-5094-5327-bf39-badb6992bfc0">Klaus Moritzen</person>
         </persons>
         <url>https://www.germantestingday.info/de/programm/konferenzprogramm/mi-13</url>
         <links />
